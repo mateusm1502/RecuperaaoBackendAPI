@@ -24,3 +24,5 @@ router.post("/somar", ( req, res ) => {
     const somar = num1 + num2
     res.status
 })
+
+export default router
