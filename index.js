@@ -1,5 +1,5 @@
-import express from "express"
-import router from "./router/operacoes.js"
+import express from 'express'
+import router from './router/operacoes.js'
 
 const app = express()
 

@@ -1,6 +1,4 @@
-import express from "express"
-import operacoes from "./router/operacoes.js"
-
+import express from 'express'
 const router = express.Router()
 
 router.post("/somar", ( req, res ) => {
